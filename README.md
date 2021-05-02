@@ -1,4 +1,5 @@
-#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Nasa",Nasa 
+
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Especial",Nasa 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
@@ -243,8 +244,14 @@ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=748500001
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="RedeTV", REDETV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="RedeTV", REDETV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpopsexy.png" group-title="Musica", Sexy KpopTV
 https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title=" TVGazeta", TV GAZETA 
@@ -467,22 +474,24 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b3960007
 
 
 
-
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w472426507.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes1 
-https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes2 
-https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes3
-https://livefocamundo.com:8081/8470/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes4
 http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?IMDSFULL
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes2 
+https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w163046694.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes3
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
+
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes4
+https://5e36c064a2f6a.streamlock.net:1936/8310/8310/chunklist_w1731136153.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Series
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w472426507.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Series 2
 https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w120315536.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Filmes Classic
@@ -493,6 +502,7 @@ https://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w429670914.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Filmes Classic 3
 https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w102204272.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
@@ -828,6 +838,15 @@ https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5eb82f6fd9799db20a7129633e7a605b.png" group-title="Documentario", History Lab 2
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1778992645.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9fe845cd9712092b91454b965439f667.png" group-title="Especial",Tv P
+https://stmv3.samcast.com.br/romeu6622/romeu6622/chunklist_w117002735.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Especial",Tv cine
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png" group-title="Especial",Tv 8 Brasil
 https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596000.m3u8
